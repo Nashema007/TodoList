@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">TodoList</string>
+    <string name="notes">Notes</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="noteHint">Please write your note here…</string>
+    <string name="noteTitle">Note Title here…</string>
+    <string name="datetime">1994/08/20 16:00</string>
+    <string name="Title">Title: </string>
+    <string name="Preview">Preview: </string>
+
+
+</resources>
